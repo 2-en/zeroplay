@@ -2,7 +2,7 @@
 
 * TODO A model to map controller screenshots to controller inputs
 ** TODO Sprint 1: Data Collection and Preparation [0%]
-1. [ ] Research: Identify multiple Twitch streams or other sources that showcase controller input display during gameplay. Identify variations in controller display like size, position, color, and design.
+1. [-] Research: Identify multiple Twitch streams or other sources that showcase controller input display during gameplay. Identify variations in controller display like size, position, color, and design.
 2. [ ] Data collection: Extract a diverse range of controller input screenshots from these sources.
 3. [ ] Data labeling: Label the collected screenshots with the corresponding controller inputs (e.g., button press, joystick direction, etc.).
 4. [ ] Data preprocessing: Clean and preprocess the data, this might include resizing, normalization, and perhaps augmentation techniques.
